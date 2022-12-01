@@ -1,0 +1,35 @@
+Performing C SOURCE FILE Test HAVE_THREAD_LOCAL_STORAGE failed with the following output:
+Change Dir: /home/hemanth_patel/catkin_ws_3/src/nlopt/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_c051d/fast && /usr/bin/make -f CMakeFiles/cmTC_c051d.dir/build.make CMakeFiles/cmTC_c051d.dir/build
+make[1]: Entering directory '/home/hemanth_patel/catkin_ws_3/src/nlopt/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c051d.dir/src.c.o
+/usr/lib/ccache/cc   -DHAVE_THREAD_LOCAL_STORAGE   -o CMakeFiles/cmTC_c051d.dir/src.c.o   -c /home/hemanth_patel/catkin_ws_3/src/nlopt/build/CMakeFiles/CMakeTmp/src.c
+/home/hemanth_patel/catkin_ws_3/src/nlopt/build/CMakeFiles/CMakeTmp/src.c:2:5: warning: return type defaults to ‘int’ [-Wimplicit-int]
+    2 |     __declspec(thread) int tls;
+      |     ^~~~~~~~~~
+/home/hemanth_patel/catkin_ws_3/src/nlopt/build/CMakeFiles/CMakeTmp/src.c: In function ‘__declspec’:
+/home/hemanth_patel/catkin_ws_3/src/nlopt/build/CMakeFiles/CMakeTmp/src.c:4:20: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘{’ token
+    4 |     int main(void) {
+      |                    ^
+/home/hemanth_patel/catkin_ws_3/src/nlopt/build/CMakeFiles/CMakeTmp/src.c:2:5: warning: type of ‘thread’ defaults to ‘int’ [-Wimplicit-int]
+    2 |     __declspec(thread) int tls;
+      |     ^~~~~~~~~~
+/home/hemanth_patel/catkin_ws_3/src/nlopt/build/CMakeFiles/CMakeTmp/src.c:2:28: error: declaration for parameter ‘tls’ but no such parameter
+    2 |     __declspec(thread) int tls;
+      |                            ^~~
+/home/hemanth_patel/catkin_ws_3/src/nlopt/build/CMakeFiles/CMakeTmp/src.c:6: error: expected ‘{’ at end of input
+    6 |     }
+      | 
+make[1]: *** [CMakeFiles/cmTC_c051d.dir/build.make:66: CMakeFiles/cmTC_c051d.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/hemanth_patel/catkin_ws_3/src/nlopt/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_c051d/fast] Error 2
+
+
+Source file was:
+
+    __declspec(thread) int tls;
+
+    int main(void) {
+        return 0;
+    }
