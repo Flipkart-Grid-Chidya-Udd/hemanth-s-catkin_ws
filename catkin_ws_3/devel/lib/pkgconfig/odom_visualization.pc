@@ -1,0 +1,8 @@
+prefix=/home/hemanth_patel/catkin_ws_3/devel
+
+Name: odom_visualization
+Description: Description of odom_visualization
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

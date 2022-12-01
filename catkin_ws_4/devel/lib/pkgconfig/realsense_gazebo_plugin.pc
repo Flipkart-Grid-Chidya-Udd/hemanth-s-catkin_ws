@@ -1,0 +1,1 @@
+/home/hemanth_patel/catkin_ws_4/devel/.private/realsense_gazebo_plugin/lib/pkgconfig/realsense_gazebo_plugin.pc

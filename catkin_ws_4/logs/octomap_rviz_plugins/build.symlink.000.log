@@ -1,0 +1,4 @@
+Symlinking /home/hemanth_patel/catkin_ws_4/devel/lib/liboctomap_rviz_plugins.so
+Symlinking /home/hemanth_patel/catkin_ws_4/devel/lib/pkgconfig/octomap_rviz_plugins.pc
+Symlinking /home/hemanth_patel/catkin_ws_4/devel/share/octomap_rviz_plugins/cmake/octomap_rviz_pluginsConfig.cmake
+Symlinking /home/hemanth_patel/catkin_ws_4/devel/share/octomap_rviz_plugins/cmake/octomap_rviz_pluginsConfig-version.cmake

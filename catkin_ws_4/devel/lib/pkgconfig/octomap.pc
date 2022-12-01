@@ -1,0 +1,10 @@
+prefix=/home/hemanth_patel/catkin_ws_4/devel
+libdir=/home/hemanth_patel/catkin_ws_4/devel/lib
+includedir=/home/hemanth_patel/catkin_ws_4/devel/include
+
+Name: octomap
+Description: octomap
+Requires: 
+Version: 1.9.8
+Libs: -L${libdir}  -loctomap -loctomath
+Cflags: -I${includedir} 

@@ -1,0 +1,12 @@
+/home/hemanth_patel/catkin_ws_4/src/ompl/src/ompl/geometric/planners/informedtrees/bitstar/src/Vertex.cpp: In member function ‘void ompl::geometric::BITstar::Vertex::removeChild(const VertexPtr&)’:
+/home/hemanth_patel/catkin_ws_4/src/ompl/src/ompl/geometric/planners/informedtrees/bitstar/src/Vertex.cpp:393:18: warning: variable ‘foundChild’ set but not used [-Wunused-but-set-variable]
+  393 |             bool foundChild;
+      |                  ^~~~~~~~~~
+/home/hemanth_patel/catkin_ws_4/src/ompl/src/ompl/geometric/planners/informedtrees/bitstar/src/Vertex.cpp: In member function ‘void ompl::geometric::BITstar::Vertex::removeFromEdgeQueueInLookup(ompl::BinaryHeap<std::pair<std::array<ompl::base::Cost, 3>, std::pair<std::shared_ptr<ompl::geometric::BITstar::Vertex>, std::shared_ptr<ompl::geometric::BITstar::Vertex> > >, std::function<bool(const std::pair<std::array<ompl::base::Cost, 3>, std::pair<std::shared_ptr<ompl::geometric::BITstar::Vertex>, std::shared_ptr<ompl::geometric::BITstar::Vertex> > >&, const std::pair<std::array<ompl::base::Cost, 3>, std::pair<std::shared_ptr<ompl::geometric::BITstar::Vertex>, std::shared_ptr<ompl::geometric::BITstar::Vertex> > >&)> >::Element* const&)’:
+/home/hemanth_patel/catkin_ws_4/src/ompl/src/ompl/geometric/planners/informedtrees/bitstar/src/Vertex.cpp:587:18: warning: variable ‘found’ set but not used [-Wunused-but-set-variable]
+  587 |             bool found = false;
+      |                  ^~~~~
+/home/hemanth_patel/catkin_ws_4/src/ompl/src/ompl/geometric/planners/informedtrees/bitstar/src/Vertex.cpp: In member function ‘void ompl::geometric::BITstar::Vertex::removeFromEdgeQueueOutLookup(ompl::BinaryHeap<std::pair<std::array<ompl::base::Cost, 3>, std::pair<std::shared_ptr<ompl::geometric::BITstar::Vertex>, std::shared_ptr<ompl::geometric::BITstar::Vertex> > >, std::function<bool(const std::pair<std::array<ompl::base::Cost, 3>, std::pair<std::shared_ptr<ompl::geometric::BITstar::Vertex>, std::shared_ptr<ompl::geometric::BITstar::Vertex> > >&, const std::pair<std::array<ompl::base::Cost, 3>, std::pair<std::shared_ptr<ompl::geometric::BITstar::Vertex>, std::shared_ptr<ompl::geometric::BITstar::Vertex> > >&)> >::Element* const&)’:
+/home/hemanth_patel/catkin_ws_4/src/ompl/src/ompl/geometric/planners/informedtrees/bitstar/src/Vertex.cpp:715:18: warning: variable ‘found’ set but not used [-Wunused-but-set-variable]
+  715 |             bool found = false;
+      |                  ^~~~~

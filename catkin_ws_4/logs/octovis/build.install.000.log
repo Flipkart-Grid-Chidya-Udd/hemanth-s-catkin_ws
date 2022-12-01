@@ -1,0 +1,25 @@
+[ 17%] Built target octovis-shared
+[ 82%] Built target octovis
+[100%] Built target octovis-static
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/bin/octovis
+-- Set runtime path of "/home/hemanth_patel/catkin_ws_4/devel/bin/octovis" to "/home/hemanth_patel/catkin_ws_4/devel/lib"
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/lib/liboctovis.a
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/lib/liboctovis.so.1.9.8
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/lib/liboctovis.so.1.9
+-- Set runtime path of "/home/hemanth_patel/catkin_ws_4/devel/lib/liboctovis.so.1.9.8" to "/home/hemanth_patel/catkin_ws_4/devel/lib"
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/lib/liboctovis.so
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/share/octovis/octovis-targets.cmake
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/share/octovis/octovis-targets-release.cmake
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octovis/ColorOcTreeDrawer.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octovis/OcTreeDrawer.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octovis/OcTreeRecord.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octovis/PointcloudDrawer.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octovis/SceneObject.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octovis/SelectionBox.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octovis/TrajectoryDrawer.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/share/octovis/octovis-config.cmake
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/share/octovis/octovis-config-version.cmake
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/share/octovis/package.xml
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/share/ament_index/resource_index/packages/octovis

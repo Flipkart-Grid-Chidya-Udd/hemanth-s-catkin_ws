@@ -1,0 +1,1 @@
+/usr/lib/ccache/c++ -fPIC   -shared -Wl,-soname,libSO3Control.so -o /home/hemanth_patel/catkin_ws_3/devel/lib/libSO3Control.so CMakeFiles/SO3Control.dir/src/SO3Control.cpp.o   -L/home/hemanth_patel/catkin_ws_3/src/Fast-Planner-for-ubuntu20.04/uav_simulator/Utils/cmake_utils/lib/mosek8 

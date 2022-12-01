@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/hemanth_patel/catkin_ws_4/src/octomap/dynamicEDT3D/lib/libdynamicedt3d.a  CMakeFiles/dynamicedt3d-static.dir/dynamicEDT3D.cpp.o
+/usr/bin/ranlib /home/hemanth_patel/catkin_ws_4/src/octomap/dynamicEDT3D/lib/libdynamicedt3d.a

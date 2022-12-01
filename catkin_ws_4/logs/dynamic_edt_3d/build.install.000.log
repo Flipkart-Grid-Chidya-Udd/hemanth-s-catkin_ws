@@ -1,0 +1,25 @@
+[ 20%] Built target dynamicedt3d-static
+[ 40%] Built target dynamicedt3d
+[ 60%] Built target exampleEDTOctomapStamped
+[ 80%] Built target exampleEDTOctomap
+[100%] Built target exampleEDT3D
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/dynamicEDT3D/bucketedqueue.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/dynamicEDT3D/bucketedqueue.hxx
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/dynamicEDT3D/dynamicEDT3D.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/dynamicEDT3D/dynamicEDTOctomap.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/dynamicEDT3D/dynamicEDTOctomap.hxx
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/dynamicEDT3D/point.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/share/dynamic_edt_3d/package.xml
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/share/ament_index/resource_index/packages/dynamicEDT3D
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/share/dynamicEDT3D/dynamicEDT3DConfig.cmake
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/share/dynamicEDT3D/dynamicEDT3DConfig-version.cmake
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/lib/pkgconfig/dynamicEDT3D.pc
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/lib/libdynamicedt3d.so.1.9.8
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/lib/libdynamicedt3d.so.1.9
+-- Set runtime path of "/home/hemanth_patel/catkin_ws_4/devel/lib/libdynamicedt3d.so.1.9.8" to "/home/hemanth_patel/catkin_ws_4/devel/lib"
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/lib/libdynamicedt3d.so
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/lib/libdynamicedt3d.a
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/share/dynamicEDT3D/dynamicEDT3DTargets.cmake
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/share/dynamicEDT3D/dynamicEDT3DTargets-release.cmake

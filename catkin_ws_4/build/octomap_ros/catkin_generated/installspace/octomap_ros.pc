@@ -1,0 +1,8 @@
+prefix=/home/hemanth_patel/catkin_ws_4/install
+
+Name: octomap_ros
+Description: Description of octomap_ros
+Version: 0.4.1
+Cflags: -I${prefix}/include -I/home/hemanth_patel/catkin_ws_4/devel/include
+Libs: -L${prefix}/lib -loctomap_ros /home/hemanth_patel/catkin_ws_4/devel/lib/liboctomap.so /home/hemanth_patel/catkin_ws_4/devel/lib/liboctomath.so
+Requires: octomap_msgs sensor_msgs tf

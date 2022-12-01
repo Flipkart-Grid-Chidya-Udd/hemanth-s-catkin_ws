@@ -1,0 +1,1 @@
+/usr/lib/ccache/c++ -fPIC   -shared -Wl,-soname,libquadrotor_dynamics.so -o /home/hemanth_patel/catkin_ws_3/devel/lib/libquadrotor_dynamics.so CMakeFiles/quadrotor_dynamics.dir/src/dynamics/Quadrotor.cpp.o   -L/home/hemanth_patel/catkin_ws_3/src/Fast-Planner/uav_simulator/Utils/cmake_utils/lib/mosek8 

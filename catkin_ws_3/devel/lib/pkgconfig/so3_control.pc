@@ -1,0 +1,8 @@
+prefix=/home/hemanth_patel/catkin_ws_3/devel
+
+Name: so3_control
+Description: Description of so3_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

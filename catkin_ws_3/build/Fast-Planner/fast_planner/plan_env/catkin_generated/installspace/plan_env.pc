@@ -1,0 +1,8 @@
+prefix=/home/hemanth_patel/catkin_ws_3/install
+
+Name: plan_env
+Description: Description of plan_env
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lplan_env
+Requires: roscpp std_msgs

@@ -1,0 +1,6 @@
+devel_space: /home/hemanth_patel/catkin_ws_4/devel
+install: false
+install_space: /home/hemanth_patel/catkin_ws_4/install
+profile: default
+source_space: /home/hemanth_patel/catkin_ws_4/src
+workspace: /home/hemanth_patel/catkin_ws_4

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/hemanth_patel/catkin_ws_4/devel/.private/octomap_rviz_plugins/setup.sh

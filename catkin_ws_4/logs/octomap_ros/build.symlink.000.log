@@ -1,0 +1,4 @@
+Symlinking /home/hemanth_patel/catkin_ws_4/devel/lib/liboctomap_ros.so
+Symlinking /home/hemanth_patel/catkin_ws_4/devel/lib/pkgconfig/octomap_ros.pc
+Symlinking /home/hemanth_patel/catkin_ws_4/devel/share/octomap_ros/cmake/octomap_rosConfig.cmake
+Symlinking /home/hemanth_patel/catkin_ws_4/devel/share/octomap_ros/cmake/octomap_rosConfig-version.cmake

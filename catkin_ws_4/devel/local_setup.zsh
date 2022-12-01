@@ -1,0 +1,1 @@
+/home/hemanth_patel/catkin_ws_4/devel/.private/catkin_tools_prebuild/local_setup.zsh

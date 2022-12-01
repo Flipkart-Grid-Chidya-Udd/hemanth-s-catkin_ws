@@ -1,0 +1,94 @@
+[  5%] Built target octomath-static
+[ 10%] Built target octomath
+[ 24%] Built target octomap
+[ 27%] Built target octree2pointcloud
+[ 40%] Built target octomap-static
+[ 43%] Built target simple_example
+[ 45%] Built target graph2tree
+[ 48%] Built target log2graph
+[ 51%] Built target binvox2bt
+[ 54%] Built target intersection_example
+[ 56%] Built target bt2vrml
+[ 59%] Built target edit_octree
+[ 62%] Built target convert_octree
+[ 64%] Built target eval_octree_accuracy
+[ 67%] Built target compare_octrees
+[ 70%] Built target normals_example
+[ 72%] Built target test_raycasting
+[ 75%] Built target test_iterators
+[ 78%] Built target test_scans
+[ 81%] Built target test_pruning
+[ 83%] Built target test_io
+[ 86%] Built target test_bbx
+[ 89%] Built target test_changedkeys
+[ 91%] Built target test_color_tree
+[ 94%] Built target color_tree_histogram
+[ 97%] Built target test_mapcollection
+[100%] Built target unit_tests
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/AbstractOcTree.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/AbstractOccupancyOcTree.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/ColorOcTree.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/CountingOcTree.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/MCTables.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/MapCollection.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/MapCollection.hxx
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/MapNode.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/MapNode.hxx
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/OcTree.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/OcTreeBase.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/OcTreeBaseImpl.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/OcTreeBaseImpl.hxx
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/OcTreeDataNode.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/OcTreeDataNode.hxx
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/OcTreeIterator.hxx
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/OcTreeKey.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/OcTreeNode.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/OcTreeStamped.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/OccupancyOcTreeBase.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/OccupancyOcTreeBase.hxx
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/Pointcloud.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/ScanGraph.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/octomap.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/octomap_deprecated.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/octomap_timing.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/octomap_types.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/octomap_utils.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/math/Pose6D.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/math/Quaternion.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/math/Utils.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/include/octomap/math/Vector3.h
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/share/octomap/package.xml
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/share/ament_index/resource_index/packages/octomap
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/share/octomap/octomap-config.cmake
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/share/octomap/octomap-config-version.cmake
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/lib/pkgconfig/octomap.pc
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/lib/liboctomath.so.1.9.8
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/lib/liboctomath.so.1.9
+-- Set runtime path of "/home/hemanth_patel/catkin_ws_4/devel/lib/liboctomath.so.1.9.8" to "/home/hemanth_patel/catkin_ws_4/devel/lib"
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/lib/liboctomath.so
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/lib/liboctomath.a
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/lib/liboctomap.so.1.9.8
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/lib/liboctomap.so.1.9
+-- Set runtime path of "/home/hemanth_patel/catkin_ws_4/devel/lib/liboctomap.so.1.9.8" to "/home/hemanth_patel/catkin_ws_4/devel/lib"
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/lib/liboctomap.so
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/lib/liboctomap.a
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/share/octomap/octomap-targets.cmake
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/share/octomap/octomap-targets-release.cmake
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/bin/graph2tree
+-- Set runtime path of "/home/hemanth_patel/catkin_ws_4/devel/bin/graph2tree" to "/home/hemanth_patel/catkin_ws_4/devel/lib"
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/bin/log2graph
+-- Set runtime path of "/home/hemanth_patel/catkin_ws_4/devel/bin/log2graph" to "/home/hemanth_patel/catkin_ws_4/devel/lib"
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/bin/binvox2bt
+-- Set runtime path of "/home/hemanth_patel/catkin_ws_4/devel/bin/binvox2bt" to "/home/hemanth_patel/catkin_ws_4/devel/lib"
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/bin/bt2vrml
+-- Set runtime path of "/home/hemanth_patel/catkin_ws_4/devel/bin/bt2vrml" to "/home/hemanth_patel/catkin_ws_4/devel/lib"
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/bin/edit_octree
+-- Set runtime path of "/home/hemanth_patel/catkin_ws_4/devel/bin/edit_octree" to "/home/hemanth_patel/catkin_ws_4/devel/lib"
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/bin/convert_octree
+-- Set runtime path of "/home/hemanth_patel/catkin_ws_4/devel/bin/convert_octree" to "/home/hemanth_patel/catkin_ws_4/devel/lib"
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/bin/eval_octree_accuracy
+-- Set runtime path of "/home/hemanth_patel/catkin_ws_4/devel/bin/eval_octree_accuracy" to "/home/hemanth_patel/catkin_ws_4/devel/lib"
+-- Installing: /home/hemanth_patel/catkin_ws_4/devel/bin/compare_octrees
+-- Set runtime path of "/home/hemanth_patel/catkin_ws_4/devel/bin/compare_octrees" to "/home/hemanth_patel/catkin_ws_4/devel/lib"
