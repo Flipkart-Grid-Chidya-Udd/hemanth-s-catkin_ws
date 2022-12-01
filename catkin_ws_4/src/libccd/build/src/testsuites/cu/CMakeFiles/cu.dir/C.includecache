@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hemanth_patel/catkin_ws_4/src/libccd/src/testsuites/cu/cu.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+sys/wait.h
+-
+cu.h
+/home/hemanth_patel/catkin_ws_4/src/libccd/src/testsuites/cu/cu.h
+
+/home/hemanth_patel/catkin_ws_4/src/libccd/src/testsuites/cu/cu.h
+time.h
+-
+unistd.h
+-
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcu.a  CMakeFiles/cu.dir/cu.c.o
+/usr/bin/ranlib libcu.a

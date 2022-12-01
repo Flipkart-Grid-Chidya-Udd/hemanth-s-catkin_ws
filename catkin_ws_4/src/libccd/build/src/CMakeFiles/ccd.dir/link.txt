@@ -1,0 +1,1 @@
+/usr/lib/ccache/cc -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libccd.so.2 -o libccd.so.2.0 CMakeFiles/ccd.dir/ccd.c.o CMakeFiles/ccd.dir/mpr.c.o CMakeFiles/ccd.dir/polytope.c.o CMakeFiles/ccd.dir/support.c.o CMakeFiles/ccd.dir/vec3.c.o  -lm 

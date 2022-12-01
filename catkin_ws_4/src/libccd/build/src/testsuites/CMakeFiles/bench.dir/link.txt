@@ -1,0 +1,1 @@
+/usr/lib/ccache/cc -O3 -DNDEBUG  -rdynamic CMakeFiles/bench.dir/bench.c.o CMakeFiles/bench.dir/support.c.o  -o bench  -Wl,-rpath,/home/hemanth_patel/catkin_ws_4/src/libccd/build/src ../libccd.so.2.0 cu/libcu.a -lm -lrt 
